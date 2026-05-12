@@ -36,3 +36,12 @@ The project follows the MVVM (Model-View-ViewModel) architecture:
 - ui layer: screens and UI components
 - viewmodel layer: business logic and state management
 - navigation layer: app navigation structure
+
+---
+
+## How to Run
+
+1. Clone repository
+2. Open in Android Studio
+3. Sync Gradle
+4. Run the app on emulator or device
