@@ -41,7 +41,7 @@ The project follows the MVVM (Model-View-ViewModel) architecture:
 
 ## How to Run
 
-1. Clone repository
-2. Open in Android Studio
-3. Sync Gradle
-4. Run the app on emulator or device
+- Clone repository
+- Open in Android Studio
+- Sync Gradle
+- Run the app on emulator or device
